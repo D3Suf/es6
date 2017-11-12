@@ -1,7 +1,7 @@
 /**
  * Main class Message
- * @author Jose Berardo Cunha
- * @since 25/01/2017
+ * @updater António Carlos Alves de Sousa
+ * @dataByUpdate 12/11/2017
  */
 class Message {
   constructor(text = '', created = Date.now()) {
