@@ -1,3 +1,4 @@
+
 class Message {
   constructor(text = '', created = Date.now()) {
     this.text = text;
@@ -23,3 +24,4 @@ class Message {
     return new Message();
   }
 }
+module.exports = Message;
